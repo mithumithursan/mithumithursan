@@ -1,0 +1,109 @@
+<Html>
+	<Head>
+		<Title> National  </Title>
+	</Head>
+<body background="D:\wall paper\01.04.2013\resolution_1366x768.jpg" bgcolor="Blue">
+
+	<font face ="Adaanaa" color = "blue" size="60">This is in Red color Text</font><br>
+	
+	<hr size="05" color="black">
+	
+	<h1> mithu </h1>
+	<h2> mithu </h2>
+	<h3> mithu </h3>
+	<h4> mithu </h4>
+	<h5> mithu </h5>
+	<h6> mithu </h6>
+	
+<frameset cols="25%,50%,25%">
+<frame src="Date of birth.html">
+<frame src="pra.html">
+<frame src="Fieldset.html">
+
+<p align="right""center""justify">hhhhhhhhhhhhhhhhhhh</p>
+
+<b>bold</b>
+
+<i>italic</i>
+
+<s>strike></s>
+
+<strong>bold</strong>
+
+<small>small</small>
+
+<tt>one of text type</tt>
+
+<u>underline</u>
+
+<sub>subscript</sub>
+
+<sup>super</sup>
+
+<pre>hhjj
+jjkkkkkkkkkk same location</pre>
+<br>
+
+<font face="arial" size="1-10" color="red"></font>
+
+<img src="link" height="45px" width="px" alt="no image">
+
+<table border="1px" cellpadding="10px" cellspacing="10px">
+	<tr>
+		<th>hg</th>
+		<th>hg</th>
+	</tr>
+	<tr>
+		<td>hy</td>
+		<td>hy</td>
+	</tr>
+	<tr>
+		<td colspan="3" rowspan="5">jkj</td>
+		<td background="E:\Mithursan ICT4\Picture\400_F_71988474_iUIdEj8RyYaK8P3KucRb1HVqXGyrpQ9O.jpg"hight="25" width="25">Row</td>
+	</tr>
+</table>
+
+<ul type="disc" "square" "circle">
+	<li>bullet</li>
+	<li></li>
+</ul>
+
+<ol type="" "A" "a" "I" "i">
+	<li>number</li>
+	<li></li>
+</ol>
+
+<marquee bgcolor="red" width="200px" height="55px" scrollamount="10" scrolldelay="2000" loop="2" behavior="slide alternate scroll" direction="left right up down">  <img Src=""> mithu</marquee>
+<a href="linkadd" target="_blank">name</a>
+<iframe src="" name="box" height="500px" width="600px" frameborder=""></iframe>    give name in target of a href as box
+
+<fieldset>
+<legend>nhh</legend>
+<form>
+<label>kjj</label>
+<input type="text" "password">
+<select>
+<option value="">namw</option>
+</select>
+<input type="date">
+<textarea cols="" rows=""></textarea>
+<input type="radio" name="samename">male
+<input type="checkbox">name
+<input type="file" multiple>
+<input type="submit">
+<button>save</button>
+</form>
+</fieldset>
+
+<dl>
+<font face="Bamini"><ul type="disc">
+<dt><li>rpq;fstH</li></dt>
+<dt><li>jkpo;</li></dt>
+<dd>1. ,yq;ifj;jkpo;</dd>
+<dd>2. ,e;jpaj; jkpo;</dd>
+<dt><li>K];ypk;</li></dt>
+<dt><li>ngf;fH</li></dt>
+</dl>
+
+</Body>
+</Html>
