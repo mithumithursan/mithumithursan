@@ -16,7 +16,36 @@ Here are some ideas to get you started:
 -->
 ## Welcome to GitHub Pages
 ![nice-watercolor-background_24837-261](https://user-images.githubusercontent.com/91019061/133962560-fbb4d289-2956-41c1-92fd-79abb2587b98.jpg)
-
+<div class="text-white bg-blue mb-2">
+  .text-white on .bg-blue
+</div>
+<div class="bg-blue-light mb-2">
+  .text-gray-dark on .bg-blue-light
+</div>
+<div class="text-white bg-red mb-2">
+  .text-white on .bg-red
+</div>
+<div class="text-red bg-red-light mb-2">
+  .text-red on .bg-red-light
+</div>
+<div class="bg-green-light mb-2">
+  .text-gray-dark on .bg-green-light
+</div>
+<div class="bg-yellow mb-2">
+  .text-gray-dark on .bg-yellow
+</div>
+<div class="bg-yellow-light mb-2">
+  .text-gray-dark on .bg-yellow-light
+</div>
+<div class="text-white bg-purple mb-2">
+  .text-white on .bg-purple
+</div>
+<div class="text-white bg-gray-dark mb-2">
+  .text-white on .bg-gray-dark
+</div>
+<div class="bg-gray">
+  .text-gray-dark on .bg-gray
+</div>
 I’m Vipul Konar, and I am 7 years old.
 I study at Delhi Public School in the fourth standard.
 My father’s name is Mr. Adhitya Konar, and my mother’s name is Mrs. Alar Konar.
